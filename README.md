@@ -8,7 +8,7 @@ In that last exercise, I wanted to show you how we can evaluate a sum of terms b
 
 The 1st and 2nd term in the Fibonacci series are both 1.  All remaining terms in the Fibonacci series are evaluated using the following formula:
 
-![](https://render.githubusercontent.com/render/math?math=f_n=f_{n-2}+f_{n-1})
+![](https://render.githubusercontent.com/render/math?math=f_n=f_{n-2}%2Bf_{n-1})
 
 To complete this exercise I would thus like you to:
 
@@ -34,4 +34,4 @@ This code will output:
 3
 ````
 
-as the loop runs for all i in ![](https://render.githubusercontent.com/render/math?math=2\lei<4)
+as the loop runs for all i in ![](https://render.githubusercontent.com/render/math?math=2\le\i<4)
