@@ -31,5 +31,7 @@ This code will output:
 
 ````
 2
-4
+3
 ````
+
+as the loop runs for all i in ![](https://render.githubusercontent.com/render/math?math=2\lei<4)
