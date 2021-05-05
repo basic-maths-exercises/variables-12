@@ -1,10 +1,7 @@
 import numpy as np 
 
-table = 7
-timesTable = 0
-print(timesTable)
+fibonacci = np.ones(100)
+for i in range(2,100) :
+  fibonacci[i] = fibonacci[i-2] + fibonacci[i-1]
 
-for i in range(10) :
-  timesTable = timesTable + table
-  print(timesTable)
-
+print( fibonacci )
