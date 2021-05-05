@@ -12,6 +12,7 @@ To complete this exercise I would thus like you to:
 1. Create an array called `fibonacci`.  This array should have 100 elements.
 2. Set `fibonacci[0]` and `fibonacci[1]` both equal to 1.
 3. Write a for loop that uses the formula given above to evaluate set the remaining 98 elements in the array `fibonacci` 
+4. Use the plot command in the input to draw a graph that shows the elements of the Fibonacci series you have calculated on the y-axis.  The first point you plot should have x=1, the second x=2, the third x=3 and so on.
 
 At the end of your program the elements of `fibonacci` should be set equal to the first 100 numbers in the Fibonacci series.
 
