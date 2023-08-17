@@ -3,9 +3,7 @@
 In that last exercise, showed you how we can evaluate a sum of terms by writing a computer program containing a loop.  Mathematical series that are constructed in this way are very interesting.  One particularly interesting series is the so called 
 Fibonacci series.  The 1st and 2nd term in the Fibonacci series are both 1.  All remaining terms in the Fibonacci series are evaluated using the following formula:
 
-$$
-f_n=f_{n-2}+f_{n-1}
-$$
+![](equation.png)
 
 The third term in the series is thus 1+1=2, the fourth term is 1+2=3, the fifth term is 2+3=5 and so on.
 
